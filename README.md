@@ -1,2 +1,3 @@
-# gqj
-Graph Query JSON (GQJ) - a minimal JSON-native query language for typed domain graphs, designed for AI agents and deterministic backend execution.
+# GQJ
+
+Status: Draft V1 specification. The language is under active development and may change before the first stable release.
